@@ -21,7 +21,7 @@ blursed-password-app
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/blursed-password-app.git
+   git clone [https://github.com/yourusername/blursed-password-app.git](https://github.com/kameswarisubramanian/BlursedChallenge.git)
    cd blursed-password-app
    ```
 
